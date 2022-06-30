@@ -1,0 +1,29 @@
+{
+  "options": {
+    "paths": {
+      "root": "",
+      "fonts": "fonts",
+      "styles": "styles",
+      "sprites": "sprites",
+      "mbtiles": ""
+    }
+  },
+  "styles": {
+    "bright": {
+      "style": "bright/style.json",
+      "tilejson": {
+        "bounds": [
+          22.10166,
+          44.02738,
+          40.25842,
+          52.42326
+        ]
+      }
+    }
+  },
+  "data": {
+    "v3": {
+      "mbtiles": "ukraine.mbtiles"
+    }
+  }
+}
